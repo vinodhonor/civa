@@ -3,7 +3,7 @@
 	define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
     define('DB_PASSWORD', '');
-    define('DB_DATABASE', 'test_civa');
+    define('DB_DATABASE', '');
 
   
 $con = mysql_connect("localhost","root","");
